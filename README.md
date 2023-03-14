@@ -1,4 +1,8 @@
-![Kreedzt's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<div style="display: inline-block;">
+  <a href="https://githubtrends.io" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kreedzt&show_icons=true&theme=onedark" alt="githubstats">
+  </a>
+</div>
 
 <div style="display: inline-block;">
     <a href="https://githubtrends.io" target="_blank">
