@@ -15,16 +15,6 @@ I am a Frontend Development Engineer, and I focus on building modern web applica
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+Kreedzt;Full+Stack+Developer;" alt="Typing SVG" />
 </div>
 
-<h3 align="center">Connect with me</h3>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Kreedzt-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kreedzt)
-[![Email](https://img.shields.io/badge/Email-zhaozisong1%40live.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:zhaozisong1@live.com)
-[![Blog](https://img.shields.io/badge/Blog-blog.kreedzt.com-FF4500?style=for-the-badge&logo=ghost&logoColor=white)](https://blog.kreedzt.com)
-
-</div>
-
 <h3 align="center">Tech Stack</h3>
 
 <div align="center">
@@ -39,20 +29,6 @@ I am a Frontend Development Engineer, and I focus on building modern web applica
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-</div>
-
-<h3 align="center">GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kreedzt&show_icons=true&theme=onedark" alt="githubstats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kreedzt&theme=onedark" alt="streak stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kreedzt&theme=onedark" alt="activity graph"/>
 </div>
 
 <h3 align="center">Featured Projects</h3>
