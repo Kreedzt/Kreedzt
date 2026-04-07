@@ -35,8 +35,8 @@ I am a Frontend Development Engineer, and I focus on building modern web applica
 
 <div align="center">
 
-[![rwrs-server](https://github-readme-stats.vercel.app/api/pin/?username=Kreedzt&repo=rwrs-server&theme=onedark)](https://github.com/Kreedzt/rwrs-server)
-[![rwrs-another-page-v2](https://github-readme-stats.vercel.app/api/pin/?username=Kreedzt&repo=rwrs-another-page-v2&theme=onedark)](https://github.com/Kreedzt/rwrs-another-page-v2)
-[![robin-android](https://github-readme-stats.vercel.app/api/pin/?username=Kreedzt&repo=robin-android&theme=onedark)](https://github.com/Kreedzt/robin-android)
+[![rwrs-server](https://github-readme-stats.vercel.app/api/pin/?username=rwr-infra&repo=robin-server&theme=onedark)](https://github.com/rwr-infra/robin-server)
+[![rwrs-another-page-v2](https://github-readme-stats.vercel.app/api/pin/?username=rwr-infra&repo=robin-web&theme=onedark)](https://github.com/rwr-infra/robin-web)
+[![robin-android](https://github-readme-stats.vercel.app/api/pin/?username=rwr-infra&repo=robin-android&theme=onedark)](https://github.com/rwr-infra/robin-android)
 
 </div>
